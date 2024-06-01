@@ -1,3 +1,4 @@
+package EstruturasCondicionais;
 public class ResultadoEscolar3 {
     public static void main(String[] args) {
         int nota = 7;
